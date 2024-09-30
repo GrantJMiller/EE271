@@ -1,2 +1,2 @@
-# EE271
-Class Projects From EE271 - DIgital Circuits and Systems UW
+# EE271 Lab 6
+Tug of War game from EE271
